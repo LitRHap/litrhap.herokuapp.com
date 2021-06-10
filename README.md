@@ -7,4 +7,4 @@ just see and learning more code in this repository
 
 ### Special Thanks to
 * [`MitsuGans`](https://github.com/MitsuGans)
-* * [`LitRHap`](https://instagram.com/litrhap.kotz)
+* [`LitRHap`](https://instagram.com/litrhap.kotz)
